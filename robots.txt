@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edowoove.github.io/sitemap_index.edowoove
